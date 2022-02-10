@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FerPicado
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Node.js / TypeScript / JavaScript and Python!
 
 
 
