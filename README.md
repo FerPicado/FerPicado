@@ -1,9 +1,12 @@
-- 👋 Hi, I’m @FerPicado
-- 🌱 I’m currently learning Node.js and Python!
+- 👋 Hi, I’m Fernando
+- 🌱 I’m currently SWE Student
+
+<h3>Skills:</h3>
+
+-_Java_\
+-_JavaScript / Node js / Express js_ /\
+-_MySQL_
 
 
 
-<!---
-FerPicado/FerPicado is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
