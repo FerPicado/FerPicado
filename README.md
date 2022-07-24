@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Fernando
-- 🌱 I’m currently SWE Student
+- 🌱 Software Engineering Student
 
 <h3>Skills:</h3>
 
