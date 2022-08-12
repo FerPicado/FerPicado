@@ -2,7 +2,7 @@
 
 <h3 align="center">Software Engineering Student</h3>
 
-I'm currently working on **strengthening my skills** and also dedicating time to learn **Go** (backend development).
+I'm currently working on **improve my skills** and also dedicating time to learn **Go** (backend development).
 
 📫 **fernancalvo21@gmail.com**
 
