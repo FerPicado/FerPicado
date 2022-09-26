@@ -2,7 +2,7 @@
 
 <h3 align="center">Software Engineering Student</h3>
 
-I'm currently working on **improve my skills** and also dedicating time to learn **Machine Learning**.
+I'm a Software Engineering Student who along with the University also spend all my free time to improve my skills to learn **ML & DL**.
 
 📫 **fernancalvo21@gmail.com**
 
