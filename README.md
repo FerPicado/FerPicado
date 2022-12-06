@@ -25,7 +25,7 @@ In addition to studying at the University, l also spend all my time improving my
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-[![](https://visitcount.itsvg.in/api?id=ferpicado&icon=1&color=8)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Ferpicado&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
