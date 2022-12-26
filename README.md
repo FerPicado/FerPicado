@@ -5,7 +5,7 @@
 I'm a *Software Engineering Student.*  
 In addition to studying at the University, l also spend all my time improving my **ML & DL** skills.
 
-📫 **fernancalvo21@gmail.com**
+**fernancalvo21@gmail.com**
 
 <hr>
 
