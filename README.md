@@ -20,7 +20,7 @@ In addition to studying at the University, l also spend all my time improving my
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ferpicado&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FerPicado&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
