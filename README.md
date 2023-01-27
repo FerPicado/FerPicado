@@ -3,7 +3,7 @@
 <h3 align="center">Software Engineering Student</h3>
 
 I'm a *Software Engineering Student.*  
-In addition to studying at the University, l also spend all my time improving my **ML & DL** skills.
+l also spend all my time improving my **ML** skills.
 
 **fernancalvo21@gmail.com**
 
