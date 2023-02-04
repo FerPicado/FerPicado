@@ -2,10 +2,7 @@
 
 <h3 align="center">Software Engineering Student</h3>
 
-I'm a *Software Engineering Student.*  
-l also spend all my time improving my **ML** skills.
-
-**fernancalvo21@gmail.com**
+I'm a *Software Engineering Student and also spend *all my time* improving my **ML** skills.
 
 <hr>
 
