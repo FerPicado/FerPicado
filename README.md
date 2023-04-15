@@ -1,9 +1,6 @@
 
 
-<h3 align="center">Software Engineering Student</h3>
-
-<!-- I'm a *Software Engineering Student* and also spend *all my time* improving my **ML** skills. -->
-***Computer Science***
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=F7F7F7&width=435&lines=Machine+Learning+Enthusiast+;Computer+Sciense+Student)](https://git.io/typing-svg)
 
 <p align="left">
 
