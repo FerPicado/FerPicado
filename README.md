@@ -1,6 +1,6 @@
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=F7F7F7&width=435&lines=Machine+Learning+Enthusiast+;Computer+Sciense+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=F7F7F7&width=435&lines=Machine+Learning+Enthusiast+;Computer+Science+Student)](https://git.io/typing-svg)
 
 <p align="left">
 
